@@ -1,0 +1,15 @@
+C:\Users\isaqu\source\repos\Aprendizado_Programação_01\Aprendizado_Programação_01\bin\Debug\net8.0\Aprendizado_Programação_01.exe
+C:\Users\isaqu\source\repos\Aprendizado_Programação_01\Aprendizado_Programação_01\bin\Debug\net8.0\Aprendizado_Programação_01.deps.json
+C:\Users\isaqu\source\repos\Aprendizado_Programação_01\Aprendizado_Programação_01\bin\Debug\net8.0\Aprendizado_Programação_01.runtimeconfig.json
+C:\Users\isaqu\source\repos\Aprendizado_Programação_01\Aprendizado_Programação_01\bin\Debug\net8.0\Aprendizado_Programação_01.dll
+C:\Users\isaqu\source\repos\Aprendizado_Programação_01\Aprendizado_Programação_01\bin\Debug\net8.0\Aprendizado_Programação_01.pdb
+C:\Users\isaqu\source\repos\Aprendizado_Programação_01\Aprendizado_Programação_01\obj\Debug\net8.0\Aprendizado_Programação_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaqu\source\repos\Aprendizado_Programação_01\Aprendizado_Programação_01\obj\Debug\net8.0\Aprendizado_Programação_01.AssemblyInfoInputs.cache
+C:\Users\isaqu\source\repos\Aprendizado_Programação_01\Aprendizado_Programação_01\obj\Debug\net8.0\Aprendizado_Programação_01.AssemblyInfo.cs
+C:\Users\isaqu\source\repos\Aprendizado_Programação_01\Aprendizado_Programação_01\obj\Debug\net8.0\Aprendizado_Programação_01.csproj.CoreCompileInputs.cache
+C:\Users\isaqu\source\repos\Aprendizado_Programação_01\Aprendizado_Programação_01\obj\Debug\net8.0\Aprendizado_Programação_01.sourcelink.json
+C:\Users\isaqu\source\repos\Aprendizado_Programação_01\Aprendizado_Programação_01\obj\Debug\net8.0\Aprendizado_Programação_01.dll
+C:\Users\isaqu\source\repos\Aprendizado_Programação_01\Aprendizado_Programação_01\obj\Debug\net8.0\refint\Aprendizado_Programação_01.dll
+C:\Users\isaqu\source\repos\Aprendizado_Programação_01\Aprendizado_Programação_01\obj\Debug\net8.0\Aprendizado_Programação_01.pdb
+C:\Users\isaqu\source\repos\Aprendizado_Programação_01\Aprendizado_Programação_01\obj\Debug\net8.0\Aprendizado_Programação_01.genruntimeconfig.cache
+C:\Users\isaqu\source\repos\Aprendizado_Programação_01\Aprendizado_Programação_01\obj\Debug\net8.0\ref\Aprendizado_Programação_01.dll
